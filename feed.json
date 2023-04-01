@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://blog.devjugal.com/second-post/",
+            "url": "https://blog.devjugal.com/second-post/",
+            "title": "Second Post",
+            "summary": ";p",
+            "content_html": "<p>;p</p>",
+            "author": {
+                "name": "Jugal Kishore"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-02T00:35:57+05:30",
+            "date_modified": "2023-04-02T00:35:57+05:30"
+        },
+        {
             "id": "https://blog.devjugal.com/first-post/",
             "url": "https://blog.devjugal.com/first-post/",
             "title": "First Post",
