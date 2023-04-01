@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog - devjugal.com",
+    "description": "",
+    "home_page_url": "https://blog.devjugal.com",
+    "feed_url": "https://blog.devjugal.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jugal Kishore"
+    },
+    "items": [
+        {
+            "id": "https://blog.devjugal.com/first-post/",
+            "url": "https://blog.devjugal.com/first-post/",
+            "title": "First Post",
+            "summary": "Just a post. First Post ;p",
+            "content_html": "<article>\n<div class=\"post-excerpt\">Just a post.</div>\n<div class=\"post-content\">\n<p>First Post ;p</p>\n</div>\n</article>",
+            "author": {
+                "name": "Jugal Kishore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-18T23:34:56+05:30",
+            "date_modified": "2022-12-18T23:49:20+05:30"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Blog - devjugal.com</title>
+    <link href="https://blog.devjugal.com/feed.xml" rel="self" />
+    <link href="https://blog.devjugal.com" />
+    <updated>2022-12-18T23:49:20+05:30</updated>
+    <author>
+        <name>Jugal Kishore</name>
+    </author>
+    <id>https://blog.devjugal.com</id>
+
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Jugal Kishore</name>
+        </author>
+        <link href="https://blog.devjugal.com/first-post/"/>
+        <id>https://blog.devjugal.com/first-post/</id>
+
+        <updated>2022-12-18T23:49:20+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Just a post. First Post ;p
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <article>
+<div class="post-excerpt">Just a post.</div>
+<div class="post-content">
+<p>First Post ;p</p>
+</div>
+</article>
+            ]]>
+        </content>
+    </entry>
+</feed>
