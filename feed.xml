@@ -3,7 +3,7 @@
     <title>Jugal Kishore</title>
     <link href="https://blog.devjugal.com/feed.xml" rel="self" />
     <link href="https://blog.devjugal.com" />
-    <updated>2022-12-18T23:49:20+05:30</updated>
+    <updated>2023-05-07T15:04:06+05:30</updated>
     <author>
         <name>Jugal Kishore</name>
     </author>
@@ -17,19 +17,16 @@
         <link href="https://blog.devjugal.com/first-post/"/>
         <id>https://blog.devjugal.com/first-post/</id>
 
-        <updated>2022-12-18T23:49:20+05:30</updated>
+        <updated>2023-05-07T15:04:06+05:30</updated>
             <summary>
                 <![CDATA[
-                    Just a post. First Post ;p
+                    First Post ;p
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <article>
-<div class="post-excerpt">Just a post.</div>
-<div class="post-content">
-<p>First Post ;p</p>
-</div>
+<div class="post-excerpt"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">First Post ;p</span></div>
 </article>
             ]]>
         </content>
