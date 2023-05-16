@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://blog.devjugal.com/story-behind-my-username-crazyuploader/",
+            "url": "https://blog.devjugal.com/story-behind-my-username-crazyuploader/",
+            "title": "Story behind my username &quot;crazyuploader&quot;",
+            "summary": "This is my first blog post that I am writing. I don't know how to write a blog though, but I gotta try! If you know me well, I mostly go with the username \"crazyuploader\" wherever I can, be it GitHub, or Telegram, etc. One&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">This is my first blog post that I am writing. I don't know how to write a blog though, but I gotta try!</span></p>\n<p><span style=\"font-weight: 400;\">If you know me well, I mostly go with the username <em>\"crazyuploader\"</em> wherever I can, be it GitHub, or Telegram, etc. One might wonder what's the story behind the username? Is this person genuinely crazy, or just they upload a lot of stuff?</span></p>\n<p><span style=\"font-weight: 400;\">Well, the truth behind that username is that it indeed has to do with uploading which I used to do in the past, but not in the way you might think!</span></p>\n<p><span style=\"font-weight: 400;\">It all goes back to school days, when fast fiber internet was not that common and something out of reach for this peasant. In school computer labs though, we had internet on every computer as long as the D-Link Switch was on.</span></p>",
+            "image": "https://blog.devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg",
+            "author": {
+                "name": "Jugal Kishore"
+            },
+            "tags": [
+                   "personal"
+            ],
+            "date_published": "2023-05-07T12:31:44+05:30",
+            "date_modified": "2023-05-16T14:21:19+05:30"
+        },
+        {
             "id": "https://blog.devjugal.com/first-post/",
             "url": "https://blog.devjugal.com/first-post/",
             "title": "First Post",
