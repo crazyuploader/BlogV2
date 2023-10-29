@@ -28,20 +28,6 @@
             ],
             "date_published": "2023-05-07T12:31:44+05:30",
             "date_modified": "2023-10-29T23:11:04+05:30"
-        },
-        {
-            "id": "https://blog.devjugal.com/first-post/",
-            "url": "https://blog.devjugal.com/first-post/",
-            "title": "First Post",
-            "summary": "First Post ;p",
-            "content_html": "<article>\n<div class=\"post-excerpt\"><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">First Post ;p</span></div>\n</article>",
-            "author": {
-                "name": "Jugal Kishore"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-12-18T23:34:56+05:30",
-            "date_modified": "2023-10-30T00:08:04+05:30"
         }
     ]
 }
