@@ -3,7 +3,7 @@
     <title>Jugal Kishore</title>
     <link href="https://devjugal.com/feed.xml" rel="self" />
     <link href="https://devjugal.com" />
-    <updated>2023-10-30T15:41:03+05:30</updated>
+    <updated>2023-10-30T16:07:35+05:30</updated>
     <author>
         <name>Jugal Kishore</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="GoogleDriveHacks"/>
             <category term="CrazyUploader"/>
 
-        <updated>2023-10-30T15:41:03+05:30</updated>
+        <updated>2023-10-30T16:07:35+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg" alt="" />
@@ -38,12 +38,13 @@
 <p><span style="font-weight: 400;">The story goes all back to school days, when fast fiber internet was not that common and something out of reach for this peasant. In school computer labs though, we had internet on every computer as long as the D-Link Switch was on. Mentioning this because at times the Switch would be turned off. </span></p>
 <p><span style="font-weight: 400;">Being a tech enthusiast I always had this in me to check out the latest gadgets, phones’ reviews on YouTube, and that wouldn’t be possible with me having just 2G/3G mobile data which was very expensive back in those days.</span></p>
 <p><span style="font-weight: 400;">So basically I used to download such YouTube videos in computer labs, and copy them to my pen drive before leaving the computer lab. Using my 3G mobile data I’d hardly get 300-400 KB/s, and the data was pretty much limited, hardly 1 GB for a month! Whereas I was getting 2-3 MB/s in the computer lab; it wasn’t any ADSL connection, it was a fiber-optic network after all.</span></p>
-<p><span style="font-weight: 400;">Now, sooner or later, I would want to download more than just YouTube videos, such as software and their big setups which would be very hard for me to download on mobile data. One peculiar thing I realized while downloading stuff from <a href="https://filehippo.com" target="_blank" rel="noopener">Filehippo.com</a> was that it would only give 700-800 KB/s, much less than downloading YouTube videos. And we students would often blow the FUP (Fair Use Policy) limits, that would further reduce speeds.</span></p>
-<p><span style="font-weight: 400;">To tackle this, I got an idea, since YouTube is owned by Google, I thought of trying downloading something from Google Drive, and voila it was fast, whatever I could download through Google websites were very fast, speeds always in MegaBytes!</span></p>
-<p><span style="font-weight: 400;">This led to me searching for ways to put stuff in Google Drive so that I could download using Google Drive in the computer lab, which was not restricted as long as speeds were concerned. Few websites that time had free service to upload to Google Drive using direct links; URLs of files. I hoped one such website, created a dummy Google account for privacy purposes, and tried uploading to Google Drive using direct links of files from FileHippo, and it worked!</span></p>
+<p><span style="font-weight: 400;">Now, sooner or later, I would want to download more than just YouTube videos, such as software and their big setups which would be very hard for me to download on very limited mobile data. One peculiar thing I realized while downloading stuff from <a href="https://filehippo.com" target="_blank" rel="noopener">Filehippo.com</a> was that it would only give 700-800 KB/s, much less than downloading YouTube videos. And we students would often blow the FUP (Fair Use Policy) limits, that would further reduce speeds.</span></p>
+<p><span style="font-weight: 400;">To tackle this, I got an idea, since YouTube is owned by Google, I thought of trying downloading something from Google Drive, see if it is as fast as YouTube, and voila it was fast, whatever I could download through Google websites were very fast, speeds always in MegaBytes!</span></p>
+<p><span style="font-weight: 400;">This led to me searching for ways to put stuff in Google Drive so that I could download using Google Drive in the computer lab, which was not restricted as long as speeds were concerned. Came across few websites that had free service to upload to Google Drive using direct links; URLs of files. I hoped on one such website, created a dummy Google account for privacy purposes, also because my primary Google account had 2FA on. Tried uploading to Google Drive using direct links of files from FileHippo, and it worked!</span></p>
 <p><span style="font-weight: 400;">All that was left for me to try was to check whether I can get full speed in the computer lab, and guess what? I was able to get full speed while downloading softwares and stuff, which I actually had to upload first, and that is for me to download something, I needed to upload first to Google Drive, and hence the username </span><i><span style="font-weight: 400;">“crazyuploader”</span></i><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">This uploading and downloading went for months, and I truly found the internet in the computer lab useful, made most of it. Though, I guess it’s not something I could proudly tell everyone back then, secretive stuff.</span></p>
-<p><span style="font-weight: 400;">This is my first blog post that I am writing. I don't know how to write a blog though, but I gotta try!</span></p>
+<p><span style="font-weight: 400;">And there it goes, the story behind my username. This is my first blog post that I am writing. I don't know how to write a blog though, but I gotta try! </span></p>
+<p><span style="font-weight: 400;">Anyways, thanks for reading, ciao.</span></p>
             ]]>
         </content>
     </entry>
