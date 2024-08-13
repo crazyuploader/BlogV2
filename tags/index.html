@@ -18,4 +18,13 @@ var sc_security="1817cfb6";</script><script type="text/javascript" src="https://
       }
       publiiDetectLoadedImages();</script><script defer="defer" src="https://devjugal.com/assets/js/quicklink.umd.js?v=a52ee49fe4afff274f8c30fe880ddc13"></script><script>window.addEventListener('load', () =>{
       quicklink.listen();
-      });</script></body></html>
+      });</script><script src="https://devjugal.com/media/plugins/pageprefetching/quicklink.umd.js"></script><script>window.addEventListener('load', () => {
+					quicklink.listen({
+						prerender: false,
+						el: document.querySelector('body'),
+						delay: 0,
+						limit: Infinity,
+						throttle: Infinity,
+						timeout: 2000
+					});
+				});</script></body></html>
