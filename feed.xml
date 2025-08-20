@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Jugal Kishore</title>
-    <link href="https://devjugal.com/feed.xml" rel="self" />
-    <link href="https://devjugal.com" />
+    <link href="https://blog.devjugal.com/feed.xml" rel="self" />
+    <link href="https://blog.devjugal.com" />
     <updated>2023-10-30T16:18:02+05:30</updated>
     <author>
         <name>Jugal Kishore</name>
     </author>
-    <id>https://devjugal.com</id>
+    <id>https://blog.devjugal.com</id>
 
     <entry>
         <title>The Story Behind the Username &quot;crazyuploader&quot; — Embracing the Power of Uploads</title>
         <author>
             <name>Jugal Kishore</name>
         </author>
-        <link href="https://devjugal.com/story-behind-my-username-crazyuploader/"/>
-        <id>https://devjugal.com/story-behind-my-username-crazyuploader/</id>
-        <media:content url="https://devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg" medium="image" />
+        <link href="https://blog.devjugal.com/story-behind-my-username-crazyuploader/"/>
+        <id>https://blog.devjugal.com/story-behind-my-username-crazyuploader/</id>
+        <media:content url="https://blog.devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg" medium="image" />
             <category term="UsernameStory"/>
             <category term="SharingExperiences"/>
             <category term="SchoolDays"/>
@@ -26,13 +26,13 @@
         <updated>2023-05-07T12:31:44+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg" alt="" />
+                        <img src="https://blog.devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg" alt="" />
                     If you know me well, I mostly go with the username "crazyuploader" wherever I can, be it GitHub, or Telegram,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.devjugal.com/media/posts/4/thomas-jensen-qTEj-KMMq_Q-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">If you know me well, I mostly go with the username </span><i><span style="font-weight: 400;">"crazyuploader"</span></i><span style="font-weight: 400;"> wherever I can, be it GitHub, or Telegram, etc. One might wonder what's the story behind the username? Is this person genuinely crazy, or just they upload a lot of stuff?</span></p>
 <p><span style="font-weight: 400;">Well, the truth behind that username is that it indeed has to do with uploading which I used to do in the past, but not in the way you might think!</span></p>
 <p><span style="font-weight: 400;">The story goes all back to school days, when fast fiber internet was not that common and something out of reach for this peasant. In school computer labs though, we had internet on every computer as long as the D-Link Switch was on. Mentioning this because at times the Switch would be turned off. </span></p>
